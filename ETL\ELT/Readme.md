@@ -18,7 +18,7 @@ o	Проект:
 
 Использовались Pentaho DI, DBeaver
 
-Скрин ETL процесса
+[Скрин ETL процесса](https://github.com/Lerozba/Portfolio/blob/main/ETL%5CELT/Description_ETL_update_process.pdf)
 
 o	Проект:
 -
@@ -27,10 +27,22 @@ o	Проект:
 
 Использовались Pentaho DI, DBeaver
 
-Скрин ETL процесса
+[Скрин ETL процесса](https://github.com/Lerozba/Portfolio/blob/main/ETL%5CELT/Description_ETL_checking_new_records.pdf)
 
 o	Проект:
 -
-Произвести инъекцию метаданных 
+Работа с данными по тикетам, проставленным пользователями (получение запрошенных данных) 
 
+Использовались Pentaho DI, DBeaver
+
+[Скрин процессов](https://github.com/Lerozba/Portfolio/blob/main/ETL%5CELT/Description_working_with_users_tickets.pdf)
+
+o Проект:
+-
+Написать скрипт запуска основного задания из консоли. В качестве основного задания взять задание, состоящее из 2х трансформаций:
+1-ая трансформация загружает данные из books.csv в таблицу stage.books, 2-ая трансформация загружает данные из rocid.xml в таблицу stage.cities
+
+Использовались Pentaho DI, DBeaver
+
+[Описание процессов](https://github.com/Lerozba/Portfolio/blob/main/ETL%5CELT/Description_run_job_from_console.pdf)
 
