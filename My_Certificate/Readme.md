@@ -30,10 +30,10 @@ o	Git
 
 Курсовая подготовка
 -
-o	05.2022 – IQ Option, Школа BEEGEEK, [«Поколение Python»: курс для продвинутых](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Certificate_Python.pdf)
+o	05.2022 – IQ Option, Школа BEEGEEK, [«Поколение Python»: курс для продвинутых](https://stepik.org/course/68343/promo) - [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Certificate_Python.pdf)
 
-o	04.2022 – Mail.Ru Group (VK Team),  курс [«Hadoop. Система для обработки больших объемов данных»](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Certificate_Hadoop.pdf)
+o	04.2022 – Mail.Ru Group (VK Team),  курс [«Hadoop. Система для обработки больших объемов данных»](https://stepik.org/course/150/promo) - [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Certificate_Hadoop.pdf)
 
-o	04.2022 – Омский государственный технический университет, курс [«Машинное обучение»](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Certificate_ML.pdf)
+o	04.2022 – Омский государственный технический университет, курс [«Машинное обучение»](https://stepik.org/course/8057/promo) - [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Certificate_ML.pdf)
 __________________________________________________
 ** (Регрессионный анализ / Классификация / Функции потерь и оптимизация / Оценка точности модели, переобучение, регуляризация / Проблема качества данных / Работа с пропусками / Работа с переменными / Деревья решений / Ансамблирование / Поиск выбросов и генерация новых признаков / Feature Selection / Метрики близости. Работа с текстовыми данными. Наивный Байес / Алгоритмы кластеризации / Улучшение качества модели)
