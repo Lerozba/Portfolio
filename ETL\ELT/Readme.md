@@ -9,7 +9,7 @@ o	Проект:
 
 DAG пайплайна
 
-Скрин ELT процесса
+[Подробное описание](https://github.com/Lerozba/Portfolio/blob/main/ETL%5CELT/Description_ELT_Airflow.pdf) 
 
 o	Проект:
 -
