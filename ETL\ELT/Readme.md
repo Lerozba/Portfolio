@@ -7,7 +7,7 @@ o	Проект:
 
 Использовались Airflow, ClickHouse, YandexCloud, Python, SQL, Docker
 
-DAG пайплайна
+[DAG](https://github.com/Lerozba/Portfolio/blob/main/ETL%5CELT/dag_clickhouse_etl_new.py)
 
 [Подробное описание](https://github.com/Lerozba/Portfolio/blob/main/ETL%5CELT/Description_ELT_Airflow.pdf) 
 
