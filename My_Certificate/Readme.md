@@ -1,4 +1,4 @@
-Профессиональная переподгтовка
+Профессиональная переподготовка
 -
 [Архитектор-разработчик DWH](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/certificate.pdf) / Нетология
 -
