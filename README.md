@@ -17,7 +17,7 @@
 
 Ищу проект в котором смогу профессионально реализоваться и расти
 
-Некоторые из моих учебных проектов [здесь](https://github.com/Lerozba/Portfolio/tree/main/ETL%5CELT)
+Некоторые из моих учебных проектов ETL/ELT [здесь](https://github.com/Lerozba/Portfolio/tree/main/ETL%5CELT), по 1С [здесь](https://github.com/Lerozba/Portfolio/tree/main/1С:Программист)
 
 А [здесь](https://github.com/Lerozba/Portfolio/tree/main/My_Certificate) полное собрание сертификатов :)
 
