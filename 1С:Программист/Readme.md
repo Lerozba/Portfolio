@@ -13,6 +13,8 @@ o Проект:
 
 Также необходимо было разработать отчеты с применением СКД по установленным заказчиком параметрам.
 
+[Подробное описание](https://github.com/Lerozba/Portfolio/blob/main/1С:Программист/Description_conf.pdf)
+
 [Внешняя обработка «Загрузка данных из Excel»](https://github.com/Lerozba/Portfolio/blob/main/1С:Программист/LoadingDataFromExcel.epf)
 
-[Подробное описание](https://github.com/Lerozba/Portfolio/blob/main/1С:Программист/Description_conf.pdf)
+[Пример кода - Процедура ОбработкаПроведения документа РеализацияТоваров](https://github.com/Lerozba/Portfolio/blob/main/1С:Программист/Procedure.pdf)
