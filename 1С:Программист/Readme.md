@@ -12,6 +12,6 @@ o Проект:
 
 Также необходимо было разработать отчеты с применением СКД по установленным заказчиком параметрам.
 
-Внешняя обработка «Загрузка данных из Excel»
+[Внешняя обработка «Загрузка данных из Excel»](https://github.com/Lerozba/Portfolio/blob/main/1С:Программист/LoadingDataFromExcel.epf)
 
-Подробное описание
+[Подробное описание](https://github.com/Lerozba/Portfolio/blob/main/1С:Программист/Description_conf.pdf)
