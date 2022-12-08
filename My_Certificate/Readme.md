@@ -30,14 +30,20 @@ o	Git
 
 Курсовая подготовка
 -
+o	12.2022 – 1С: Профессионал - сертификация - [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Certificate_1C.pdf)
+
+o	11.2022 – 1С: Учебный центр № 1, курс [«Интенсивное обучение программированию в 1С»](https://uc1.1c.ru/course/intensivnoe-obuchenie-programmirovaniyu-v-1s-onlajn-video/#toc) - [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Certificate_1C.pdf)
+
+o	07.2022 – Яндекс.Практикум, курс [«Инженер облачных сервисов»](https://practicum.yandex.ru/ycloud) - [Сертификат](https://github.com/Lerozba/Portfolio/blob/d8633092b732d7a84fce6797771ad65c428243fa/My_Certificate/Certificate_YandexCloud.pdf)
+
 o	05.2022 – IQ Option, Школа BEEGEEK, [«Поколение Python»: курс для продвинутых](https://stepik.org/course/68343/promo) - [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Certificate_Python.pdf)
 
 o	04.2022 – Mail.Ru Group (VK Team),  курс [«Hadoop. Система для обработки больших объемов данных»](https://stepik.org/course/150/promo) - [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Certificate_Hadoop.pdf)
 
 o	04.2022 – Омский государственный технический университет, курс [«Машинное обучение»](https://stepik.org/course/8057/promo) - [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Certificate_ML.pdf)
 
-o	07.2022 – Яндекс.Практикум, курс [«Инженер облачных сервисов»](https://practicum.yandex.ru/ycloud) - [Сертификат](https://github.com/Lerozba/Portfolio/blob/d8633092b732d7a84fce6797771ad65c428243fa/My_Certificate/Certificate_YandexCloud.pdf)
 
-o	11.2022 – 1С: Учебный центр № 1, курс [«Интенсивное обучение программированию в 1С»](https://uc1.1c.ru/course/intensivnoe-obuchenie-programmirovaniyu-v-1s-onlajn-video/#toc) - [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Certificate_1C.pdf)
+
+
 __________________________________________________
 ** (Регрессионный анализ / Классификация / Функции потерь и оптимизация / Оценка точности модели, переобучение, регуляризация / Проблема качества данных / Работа с пропусками / Работа с переменными / Деревья решений / Ансамблирование / Поиск выбросов и генерация новых признаков / Feature Selection / Метрики близости. Работа с текстовыми данными. Наивный Байес / Алгоритмы кластеризации / Улучшение качества модели)
