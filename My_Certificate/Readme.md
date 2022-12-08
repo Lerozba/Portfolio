@@ -30,7 +30,7 @@ o	Git
 
 Курсовая подготовка
 -
-o	12.2022 – 1С: Профессионал - сертификация - [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Certificate_1C.pdf)
+o	12.2022 – 1С: Профессионал - сертификация - [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/1C_Proffesional.pdf)
 
 o	11.2022 – 1С: Учебный центр № 1, курс [«Интенсивное обучение программированию в 1С»](https://uc1.1c.ru/course/intensivnoe-obuchenie-programmirovaniyu-v-1s-onlajn-video/#toc) - [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Certificate_1C.pdf)
 
