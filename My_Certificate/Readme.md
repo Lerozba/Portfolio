@@ -30,9 +30,14 @@ o	Git
 
 Курсовая подготовка
 -
+
+o	01.2023 – 1С: Учебный центр № 1, курс [«Интенсивное обучение программированию в 1С»](https://uc1.1c.ru/course/zaprosy-v-1s-predpriyatie-8-dlya-programmistov-i-razrabotchikov/) - [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Certificate_Zapros_1C.pdf)
+
 o	12.2022 – 1С: Профессионал - сертификация - [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/1C_Proffesional.pdf)
 
-o	11.2022 – 1С: Учебный центр № 1, курс [«Интенсивное обучение программированию в 1С»](https://uc1.1c.ru/course/intensivnoe-obuchenie-programmirovaniyu-v-1s-onlajn-video/#toc) - [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Certificate_1C.pdf)
+o	11.2022 – Томский государственный университет, курс [«1С программист»](https://www.tgu-dpo.ru/program/onecprogrammer)
+
+o	10.2022 – 1С: Учебный центр № 1, курс [«Интенсивное обучение программированию в 1С»](https://uc1.1c.ru/course/intensivnoe-obuchenie-programmirovaniyu-v-1s-onlajn-video/#toc) - [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Certificate_1C.pdf)
 
 o	07.2022 – Яндекс.Практикум, курс [«Инженер облачных сервисов»](https://practicum.yandex.ru/ycloud) - [Сертификат](https://github.com/Lerozba/Portfolio/blob/d8633092b732d7a84fce6797771ad65c428243fa/My_Certificate/Certificate_YandexCloud.pdf)
 
@@ -42,7 +47,10 @@ o	04.2022 – Mail.Ru Group (VK Team),  курс [«Hadoop. Система дл�
 
 o	04.2022 – Омский государственный технический университет, курс [«Машинное обучение»](https://stepik.org/course/8057/promo) - [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Certificate_ML.pdf)
 
+Стажировка
+-
 
+o	11.2022 - 01.2023 – ООО "АДИ групп", [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Internship_certificate.png) - [Рекомендательное письмо](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Internship_recommendation.pdf)
 
 
 __________________________________________________
