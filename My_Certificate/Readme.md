@@ -31,7 +31,7 @@ o	Git
 Курсовая подготовка
 -
 
-o	01.2023 – 1С: Учебный центр № 1, курс [«Интенсивное обучение программированию в 1С»](https://uc1.1c.ru/course/zaprosy-v-1s-predpriyatie-8-dlya-programmistov-i-razrabotchikov/) - [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Certificate_Zapros_1C.pdf)
+o	01.2023 – 1С: Учебный центр № 1, курс [«Запросы в системе 1С: Предприятие»](https://uc1.1c.ru/course/zaprosy-v-1s-predpriyatie-8-dlya-programmistov-i-razrabotchikov/) - [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Certificate_Zapros_1C.pdf)
 
 o	12.2022 – 1С: Профессионал - сертификация - [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/1C_Proffesional.pdf)
 
