@@ -35,7 +35,7 @@ o	01.2023 – 1С: Учебный центр № 1, курс [«Запросы �
 
 o	12.2022 – 1С: Профессионал - сертификация - [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/1C_Professional.pdf)
 
-o	11.2022 – Томский государственный университет, курс [«1С программист»](https://www.tgu-dpo.ru/program/onecprogrammer)
+o	11.2022 – Томский государственный университет, курс [«1С программист»](https://www.tgu-dpo.ru/program/onecprogrammer) - [Удостоверение](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Certificate_1C_TGU.pdf)
 
 o	10.2022 – 1С: Учебный центр № 1, курс [«Интенсивное обучение программированию в 1С»](https://uc1.1c.ru/course/intensivnoe-obuchenie-programmirovaniyu-v-1s-onlajn-video/#toc) - [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Certificate_1C.pdf)
 
