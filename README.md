@@ -22,6 +22,9 @@
 А [здесь](https://github.com/Lerozba/Portfolio/tree/main/My_Certificate) полное собрание сертификатов :)
 
 Связаться со мной можно:
+
 тел. +7 (951) 295-56-85
+
 email: tj77777@inbox.ru
+
 tg: [@julia_a_t](https://t.me/julia_a_t)
