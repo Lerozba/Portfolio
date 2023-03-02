@@ -50,7 +50,7 @@
 Стажировка
 -
 
--	11.2022 - 01.2023 – ООО "АДИ групп", [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Internship_certificate.png) - [Рекомендательное письмо](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Internship_recommendation.pdf)
+-	12.2022 - 01.2023 – ООО "АДИ групп", [Сертификат](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Internship_certificate.png) - [Рекомендательное письмо](https://github.com/Lerozba/Portfolio/blob/main/My_Certificate/Internship_recommendation.pdf)
 
 
 __________________________________________________
