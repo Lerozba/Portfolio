@@ -14,6 +14,6 @@
 
 [Подробное описание](https://github.com/Lerozba/Portfolio/blob/main/1С:Программист/Description_conf.pdf)
 
-[Внешняя обработка «Загрузка данных из Excel»](https://github.com/Lerozba/Portfolio/blob/main/1С:Программист/LoadingDataFromExcel.epf)
+[Внешняя обработка «Загрузка данных из Excel»](https://github.com/Lerozba/Portfolio/blob/main/1С:Программист/LoadingDataFromExcel.epf) / [код обработки](https://github.com/Lerozba/Portfolio/blob/main/1%D0%A1:%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82/LoadingDataFromExcel)
 
-[Пример кода - Процедура ОбработкаПроведения документа РеализацияТоваров](https://github.com/Lerozba/Portfolio/blob/main/1С:Программист/Procedure.pdf)
+[Пример кода - Процедура ОбработкаПроведения документа РеализацияТоваров](https://github.com/Lerozba/Portfolio/blob/main/1%D0%A1:%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82/Procedure)
